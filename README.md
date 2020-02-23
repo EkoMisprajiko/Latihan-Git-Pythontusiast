@@ -1,4 +1,4 @@
-# Latihan-Git-Pythontusiast
+## Latihan-Git-Pythontusiast
 Latihan git pythontusiast
 
 ## Menggunakan Git dengan command line
