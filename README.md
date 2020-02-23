@@ -16,3 +16,5 @@ Latihan git pythontusiast
 - Membuka project yang sudah di-clone di command line
 - Merubah File
 - Mengirim File ke Github
+- Merubah file dari Github
+- Melakukan git pull dari lokal dengan Pycharm
