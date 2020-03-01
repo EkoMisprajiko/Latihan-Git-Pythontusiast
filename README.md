@@ -20,3 +20,4 @@ Latihan git pythontusiast
 - Melakukan git pull dari lokal dengan Pycharm
 
 ## BUK-1 dikerjakan oleh Programmer A
+- Ini adalah sedikit perubahan yang dimaksud oleh programmer A
