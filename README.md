@@ -18,3 +18,6 @@ Latihan git pythontusiast
 - Mengirim File ke Github
 - Merubah file dari Github
 - Melakukan git pull dari lokal dengan Pycharm
+
+## Ini adalah Pekerjaan Progremmer B di BUK-2
+- Ini adalah isinya
