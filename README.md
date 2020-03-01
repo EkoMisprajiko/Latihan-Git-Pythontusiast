@@ -18,3 +18,5 @@ Latihan git pythontusiast
 - Mengirim File ke Github
 - Merubah file dari Github
 - Melakukan git pull dari lokal dengan Pycharm
+
+## BUK-1 dikerjakan oleh Programmer A
